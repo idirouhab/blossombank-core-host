@@ -1,0 +1,4 @@
+reference,debtor,creditor,currency,amount,narrative
+SETTLE-1082,1000000001,2000000001,EUR,17.25,Club reimbursement
+SETTLE-1083,2000000002,1000000002,USD,8.50,Shared subscription
+SETTLE-1084,1000000003,FX-GBP,GBP,2.00,Advice adjustment

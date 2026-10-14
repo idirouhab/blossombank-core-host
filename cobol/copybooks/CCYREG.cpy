@@ -1,0 +1,6 @@
+       01 WS-CURRENCY-EXPONENT PIC S9 VALUE -1.
+       01 WS-CURRENCY-KNOWN    PIC X VALUE 'N'.
+       01 WS-CONTROL-TABLE.
+          05 WS-CONTROL OCCURS 5 TIMES.
+             10 WS-CCY        PIC X(3).
+             10 WS-TOTAL      PIC S9(17) COMP-3 VALUE 0.

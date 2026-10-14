@@ -1,0 +1,8 @@
+.git
+.runtime
+build
+__pycache__
+*.sqlite3*
+.env*
+.coverage
+htmlcov
